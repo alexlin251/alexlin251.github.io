@@ -59,6 +59,7 @@ body {
 }
 
 .gallery-item .thumbnail {
+  float: right;
   border: 5px solid #fff;
 }
 
