@@ -118,7 +118,11 @@ p {
 }
 
 footer .center {
-  color: #Blue ;
+  color: Blue ;
+}
+
+footer .inner {
+  color: Red;
 }
 
 a {
@@ -140,7 +144,7 @@ a {
 
 a:hover, a:focus {text-decoration: underline;}
 
-footer p {
+footer a {
   color: #Blue;
   text-decoration: underline;
 }
