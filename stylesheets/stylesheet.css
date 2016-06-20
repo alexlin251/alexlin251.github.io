@@ -117,13 +117,13 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer  {
-  color: #Red;
+footer .inner{
+  color: #White;
 }
 
 a {
   text-decoration: none;
-  color: Red;
+  color: White;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -141,7 +141,7 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
-  color: #Red;
+  color: #White;
   text-decoration: underline;
 }
 
